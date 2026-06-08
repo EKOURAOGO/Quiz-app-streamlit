@@ -100,5 +100,5 @@ streamlit run app.py
 
 ## Auteur
 
-**Emmanuel KOURAOGO** — M2 IMSD
+**Emmanuel KOURAOGO** 
 [GitHub](https://github.com/EKOURAOGO) · [Email](mailto:ekouraogo73@gmail.com)
