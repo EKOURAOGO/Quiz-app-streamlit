@@ -20,10 +20,10 @@ Application de quiz interactive développée en Python avec une architecture **o
 | QuizCorrector | Évalue les réponses et calcule les scores |
 
 ## Installation
-\\\ash
+```bash
 pip install -r requirments.txt
 streamlit run app.py
-\\\
+```
 
 ## Auteur
-**Emmanuel KOURAOGO** — M2 IMSD
+**Emmanuel KOURAOGO** 
