@@ -49,7 +49,7 @@ Quiz-app-streamlit/
 | Classe | Rôle |
 |--------|------|
 | `Question` | Représente une question (énoncé, choix, réponse, tags) |
-| `QuestionDataset` | Singleton — charge le JSON une seule fois |
+| `QuestionDataset` | Singleton - charge le JSON une seule fois |
 | `QuizGenerator` | Génère un quiz aléatoire filtré par domaine |
 | `QuizCorrector` | Évalue les réponses et calcule les scores |
 
