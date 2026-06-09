@@ -1,4 +1,4 @@
-# Quiz Application — OOP & Streamlit
+# Quiz Application - OOP & Streamlit
 
 Application de quiz interactive développée en Python avec une architecture **orientée objet (OOP)** et une interface **Streamlit**.
 
